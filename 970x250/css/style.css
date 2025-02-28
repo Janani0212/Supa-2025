@@ -46,7 +46,7 @@
   padding-top: 60px;
   left: 50%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 2s;
+  animation-delay: 2.25s;
   animation-fill-mode: forwards; 
 }
 #line4{
@@ -56,7 +56,7 @@
   height: 1px;
   width: 445px;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 1.75s;
+  animation-delay: 2s;
   animation-fill-mode: forwards; 
 }
 .text7 {
